@@ -8,7 +8,7 @@ import com.badlogic.gdx.Application;
  */
 public class Config {
     public final static String TITLE = "sokoban";
-    public final static int BLOCK_SIZE = 32;
+    public final static int BLOCK_SIZE = 40;
     public final static int BLOCK_LINE = 10;
     public final static int WALL_SIZE = BLOCK_SIZE * BLOCK_LINE;
     public final static int CENTER = WALL_SIZE / 2;
